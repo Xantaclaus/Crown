@@ -1,7 +1,7 @@
 {
-    "name": "@RixzzOffc/Rx8Bail",
-    "version": "2.0.3",
-    "description": "WhatsApp API Modification By R",
+    "name": "New",
+    "version": "2.0.5",
+    "description": "WhatsApp API Modification By Xantaclaus",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -12,12 +12,12 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/RixzzOffc/Rx8Bail",
+    "homepage": "https://github.com/Xantaclaus/Crown",
     "repository": {
-        "url": "https://github.com/RixzzOffc/Rx8Bail"
+        "url": "https://github.com/Xantaclaus/Crown"
     },
     "license": "MIT",
-    "author": "RixzzOfficial",
+    "author": "Xantaclaus",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
